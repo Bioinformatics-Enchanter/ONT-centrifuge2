@@ -1,0 +1,9 @@
+.Rproj.user
+*.Rproj
+.Rhistory
+.RData
+data-FASTQ/
+*.qmd
+*.txt
+centrifuge-ref-db/
+pod5_pass
