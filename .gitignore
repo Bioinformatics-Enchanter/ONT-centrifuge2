@@ -2,8 +2,9 @@
 *.Rproj
 .Rhistory
 .RData
-data-FASTQ/
 *.qmd
 *.txt
+data/
 centrifuge-ref-db/
-pod5_pass
+centrifuge_reports/
+Guppy_output/
